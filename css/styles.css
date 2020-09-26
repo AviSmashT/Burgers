@@ -16,6 +16,13 @@ img:hover{
   border-width: 10px;
 }
 
+body {
+ background-image: url("https://media.giphy.com/media/xkXfT435KcGvS/giphy.gif");
+ background-size: 100%;
+ background-color: #cccccc;
+}
+
+
 /******************************************** CLASS SELECTORS (Group) ********************************************/
 
 .burger{
